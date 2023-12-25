@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/0xatharva" target="blank"><img src="https://img.shields.io/twitter/follow/0xatharva?logo=twitter&style=for-the-badge" alt="0xatharva" /></a> </p>
 
-- 🌱 I’m currently learning **ZK proofs, L2 architectures and interoperability**
+- 🌱 I’m currently learning **smart contract security**
 
 - 👨‍💻 All of my projects are available at [https://atharv.blog/](https://atharv.blog/)
 
-- 📝 I regularly write articles on [https://atharv.blog/](https://atharv.blog/)
+- 📝 I write articles on [https://atharv.blog/](https://atharv.blog/)
 
-- 💬 Ask me about **any help with smart contracts**
-
-- 📫 How to reach me **business@atharv.blog**
+- 📫 How to reach me 0xAtharva@protonmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

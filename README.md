@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Atharv</h1>
-<h3 align="center">Smart Contract Auditor</h3>
+<h1 align="center">Hi 👋, I'm Atharva</h1>
+<h3 align="center">Smart Contract Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/0xatharva" target="blank"><img src="https://img.shields.io/twitter/follow/0xatharva?logo=twitter&style=for-the-badge" alt="0xatharva" /></a> </p>
 

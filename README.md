@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **smart contract security**
 
-- 📝 I write articles on [https://atharv.blog/](https://atharv.blog/)
-
 - 📫 How to reach me atharvachewale3@gmail.com
 
 <h3 align="left">Connect with me:</h3>

@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm AtharvSan</h1>
-<h3 align="center">Solidity Security Researcher</h3>
+<h1>AtharvSan</h1>
+<h3>Solidity Dev and Security Researcher</h3>
 
-<p align="left"> <a href="https://twitter.com/AtharvSan" target="blank"><img src="https://img.shields.io/twitter/follow/AtharvSan?logo=twitter&style=for-the-badge" alt="AtharvSan" /></a> </p>
-
-- 🌱 I’m currently learning **smart contract security**
-
-- 📫 How to reach me atharvsan3@gmail.com
+- currently contributing to riftlend lending borrowing defi protocol
+- learning and exploring **smart contract security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

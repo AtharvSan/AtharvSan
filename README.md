@@ -1,8 +1,8 @@
 <h1>AtharvSan</h1>
 <h3>Solidity Dev and Security Researcher</h3>
 
-- currently contributing to riftlend lending borrowing defi protocol
-- learning and exploring **smart contract security**
+- currently contributing to <a href="https://github.com/RiftLend/contracts-v1">riftlend</a>, a lending borrowing defi protocol
+- intrested in smart contract security research
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

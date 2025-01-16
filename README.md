@@ -8,8 +8,8 @@
 - Token Standards : ERC20, ERC721
 - Proxy Standards : ERC1167, ERC1967, ERC1822(UUPS), ERC1538(Transparent)
 - Design Standards : ERC4626(vaults), ERC712(structured data hashing), ERC3156(flashloans)
+- dev tools : foundry, openzeppelin, git
 - Protocols : Aave-v2
-- dev tools : foundry, git, openzeppelin
 
 ### My highlights
 - Open source contribution to Riftlend fixing two bugs (merged [PR 26](https://github.com/RiftLend/contracts-v1/pull/26) [PR 27](https://github.com/RiftLend/contracts-v1/pull/27))
